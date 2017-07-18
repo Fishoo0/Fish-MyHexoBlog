@@ -119,7 +119,9 @@ php本身需要配置的其实不是必须的，因为理解还不透彻，只�
 
 ![](/images/rtmpset.png)
 	
-推流／拉流的时候，对应地址为 your_url:1935/fish/your_live_room_name_by_your_own_will
+推流拉流的时候，对应地址为	
+
+ 		your_url:1935/fish/your_live_room_name_by_your_own_will
 
 
 #参考
