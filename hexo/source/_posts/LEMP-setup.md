@@ -101,7 +101,8 @@ php本身需要配置的其实不是必须的，因为理解还不透彻，只�
 
 1，php的设置,下面贴图示例：  
 
-![](LEMP-setup/phpset.png)  
+![](/images/phpset.png)
+  
 	其实打开配置文件，默认注释掉了php相关部分，只要我们把注解打开，做微量的调整即可。本人做的调整有
 	
 		1，netstatus -a //找到自己的php-fpm的端口
@@ -116,7 +117,7 @@ php本身需要配置的其实不是必须的，因为理解还不透彻，只�
 2，rtmp的设置
 这里官方GIT提供了更为详尽的教程，这里只贴出本人配置：
 
-![](LEMP-setup/rtmpset.png)
+![](/images/rtmpset.png)
 	
 推流／拉流的时候，对应地址为 your_url:1935/fish/your_live_room_name_by_your_own_will
 
